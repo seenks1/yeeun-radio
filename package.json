@@ -1,10 +1,10 @@
 {
-  "name": "audiostreamer",
+  "name": "yeeun-radio",
   "version": "1.0.0",
   "description": "Audio streamer is a discord app that gives you the ability to play whatever audio stream URL (radio, movie audio, etc.) you like.",
   "main": "index.js",
   "scripts": {
-    "stable": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
