@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seenks1/yeeun-radio.git"
+    "url": "git+https://github.com/Flyrell/AudioStreamer.git"
   },
   "keywords": [
     "audio",
@@ -22,12 +22,13 @@
   "author": "Dawid Zbiński <dawid@zbinski.dev>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/seenks1/yeeun-radio/issues"
+    "url": "https://github.com/Flyrell/AudioStreamer/issues"
   },
-  "homepage": "https://github.com/seenks1/yeeun-radio#readme",
+  "homepage": "https://github.com/Flyrell/AudioStreamer#readme",
   "dependencies": {
     "@discordjs/opus": "^0.3.2",
     "discord.js": "^12.2.0",
     "dotenv": "^8.2.0",
     "ffmpeg-static": "^4.2.2"
   }
+}
