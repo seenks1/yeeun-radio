@@ -1,2 +1,12 @@
+# System files
+._.DS_Store
+.DS_Store
+
+# Directories
 node_modules
-config.json
+
+# IDE Specific directories
+.idea
+
+# Files
+.env
